@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "646f2c7b2379e524d4765538",
+  "color": "#C7F3F0",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
